@@ -1,5 +1,5 @@
 # House-Price-Prediction-using-ML
-*Repository: Polygon*
+*Repository: House Price Prediction*
 
 ## Description:
 This is a House Price Prediction Model which is created by the dataset that is available on Kaggle. In this there are various parameters on which the model which is trained using Machine Learning will predict the price of the house according to the parameters and location entered by the user.
