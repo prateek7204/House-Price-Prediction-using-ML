@@ -10,7 +10,7 @@ This is a House Price Prediction Model which is created by the dataset that is a
 
 ## Contact:
 For any questions or suggestions related to this repository, feel free to reach out via:
-- Email: [guptashivam.muz@gmail.com](mailto:guptashivam.muz@gmail.com)
-- GitHub: [ShivamGupta921](https://github.com/ShivamGupta921)
+- Email: [kumar.prateek2004@gmail.com](mailto:kumar.prateek2004@gmail.com)
+- GitHub: [prateek7204](https://github.com/prateek7204)
 
-Your contributions are highly appreciated! Thank you for your interest in the Polygon ecosystem.
+
